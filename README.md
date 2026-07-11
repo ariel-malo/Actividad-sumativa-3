@@ -9,9 +9,9 @@ Actividad Sumativa 3 – Desarrollo Orientado a Objetos I
 ---
 
 ## 📘 Descripción general del sistema
-Este proyecto corresponde a la actividad formativa de la semana 4, aca abordaremos el caso de Llanquihue-Tour
-creando un sistema de listas de Tours con sus respectivos atributos ya sea: nombre, tipo y precio, facilitando la gestion
-de la empresa.
+Este proyecto corresponde al desarrollo de una aplicación en Java orientada a objetos para la gestión de una agencia de turismo. Su objetivo es administrar diferentes entidades del sistema, aplicando los principios fundamentales de la Programación Orientada a Objetos, como herencia, polimorfismo, encapsulación e interfaces.
+
+La aplicación permite registrar y gestionar distintos tipos de participantes y recursos del sistema, utilizando estructuras dinámicas (ArrayList) y archivos de texto para el almacenamiento de información. Además, incorpora una interfaz gráfica básica para facilitar la interacción con el usuario.
 
 ## 🧱 Estructura general del proyecto
 

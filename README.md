@@ -1,0 +1,56 @@
+
+Actividad Sumativa 3 – Desarrollo Orientado a Objetos I
+
+ 👤 Autor del proyecto
+- **Nombre completo**: ariel ramirez mardones
+- **Carrera:** analista programacion computacional
+- **Sede:** online
+
+---
+
+## 📘 Descripción general del sistema
+Este proyecto corresponde a la actividad formativa de la semana 4, aca abordaremos el caso de Llanquihue-Tour
+creando un sistema de listas de Tours con sus respectivos atributos ya sea: nombre, tipo y precio, facilitando la gestion
+de la empresa.
+
+## 🧱 Estructura general del proyecto
+
+```plaintext
+📁 src/
+├── ui/         # Clase principal con el método main e interfaz grafica.
+├── model/       # Clase de dominio (RecursoAgencia, Registrable, GuiaTuristico, ColaboradorExterno, Transporte)
+├── data/     #clase de gestion de datos (GestorEntidades)
+
+
+````
+
+---
+
+
+
+## ⚙️ Instrucciones para clonar y ejecutar el proyecto
+
+1. Clona el repositorio desde GitHub:
+
+```bash
+https://github.com/ariel-malo/LlanquihueTour.git
+```
+
+2. Abre el proyecto en IntelliJ IDEA.
+3. Crea un objeto en la clase Main.java desde el paquete app
+4. Ejecuta el archivo `Main.java` desde el paquete `app`.
+
+
+
+---
+
+**Repositorio GitHub:** \[https://github.com/ariel-malo/Llanquihue-Tour.git]
+**Fecha de entrega:** \[10/07/2026]
+
+---
+
+
+
+
+
+

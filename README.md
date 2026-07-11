@@ -33,7 +33,7 @@ La aplicación permite registrar y gestionar distintos tipos de participantes y 
 1. Clona el repositorio desde GitHub:
 
 ```bash
-https://github.com/ariel-malo/LlanquihueTour.git
+https://github.com/ariel-malo/Actividad-sumativa-3.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -44,7 +44,7 @@ https://github.com/ariel-malo/LlanquihueTour.git
 
 ---
 
-**Repositorio GitHub:** \[https://github.com/ariel-malo/Llanquihue-Tour.git]
+**Repositorio GitHub:** \[https://github.com/ariel-malo/Actividad-sumativa-3.git]
 **Fecha de entrega:** \[10/07/2026]
 
 ---
